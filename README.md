@@ -4,6 +4,5 @@ This repository holds my programming projects done during the period of Stanford
 
 ##Prodect List
 
-.[https://github.com/yucuan/MyCodeProject/blob/main/CS106A/BeeperRow.py]
-
+_[Beeper Row]
 
